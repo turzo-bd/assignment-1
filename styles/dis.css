@@ -3,9 +3,48 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 /* top title 1 */
-.tittle-1{
+/* .tittle-1{
     width: 634px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    }
+ } */
+    /* header background color */
+.header-c{
+    background: rgba(229, 84, 115, 0.10);
+    padding: 0px 0px 0px 240px;
+    display: flex;
+    align-items: center;
+}
+/* div-1 related */
+
+.div-1{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+.header-1{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+   
+}
+.para-1{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+    
+}
+.btn-1{
+    background-color: #E55473;
+    color: #FFFFFF;
+    
+}
+/* profile-picture */
+.header-c .profile-picture{
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+}
