@@ -1,0 +1,11 @@
+/* common shared styles */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+/* top title 1 */
+.tittle-1{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    }
